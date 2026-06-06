@@ -77,27 +77,7 @@ A simple Python-based Restaurant Billing System that allows customers to place o
 
 ---
 
-## 🚀 How to Run
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/restaurant-billing-system-python.git
-```
-
-2. Navigate to the project folder:
-
-```bash
-cd restaurant-billing-system-python
-```
-
-3. Run the program:
-
-```bash
-python restaurant.py
-```
-
----
 
 ## 📸 Sample Output
 
